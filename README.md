@@ -1,1 +1,2 @@
-# 1A-Tancredo-Pensamento-Computacional
+# Tancredo-1A-PensamentoComputacional
+Site desenvolvido em HTML e CSS
